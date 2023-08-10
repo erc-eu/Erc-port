@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Erc-port/static/css/main.4173d4e0.css",
+    "main.js": "/Erc-port/static/js/main.d629d2d2.js",
+    "static/js/787.733734f9.chunk.js": "/Erc-port/static/js/787.733734f9.chunk.js",
+    "index.html": "/Erc-port/index.html",
+    "main.4173d4e0.css.map": "/Erc-port/static/css/main.4173d4e0.css.map",
+    "main.d629d2d2.js.map": "/Erc-port/static/js/main.d629d2d2.js.map",
+    "787.733734f9.chunk.js.map": "/Erc-port/static/js/787.733734f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4173d4e0.css",
+    "static/js/main.d629d2d2.js"
+  ]
+}
