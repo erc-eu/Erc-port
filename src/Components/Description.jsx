@@ -1,49 +1,60 @@
 import React, { useState } from "react";
+import c from '../Assets/c.png'
+import css from '../Assets/css.png'
+
+import htmlLogo from '../Assets/htmlLogo.png'
+import java from '../Assets/java.png'
+import javaScript from '../Assets/javaScript.png'
+
+import react from '../Assets/react.png'
+import spring from '../Assets/spring.png'
+import tailwind from '../Assets/tailwind.png'
+
 
 const techs = [
     {
         id: 1,
-        src: 'htmlLogo.png',
+        src: htmlLogo,
         title: 'HTML',
         style: 'shadow-orange-500'
     },
     {
         id: 2,
-        src: 'css.png',
+        src: css,
         title: 'CSS',
         style: 'shadow-blue-500'
     }, {
         id: 3,
-        src: 'react.png',
+        src: react,
         title: 'React JS',
         style: 'shadow-cyan-500'
     }, {
         id: 4,
-        src: 'tailwind.png',
+        src: tailwind,
         title: 'TailwindCss',
         style: 'shadow-gray-400'
     },
     {
         id: 5,
-        src: 'javaScript.png',
+        src: javaScript,
         title: 'JavaScript',
         style: 'shadow-yellow-500'
     },
     {
         id: 6,
-        src: 'java.png',
+        src: java,
         title: 'Java',
         style: 'shadow-red-500'
     },
     {
         id: 7,
-        src: 'c.png',
+        src: c,
         title: 'C e C++',
         style: 'shadow-pink-500'
     },
     {
         id: 8,
-        src: 'spring.png',
+        src: spring,
         title: 'SpringBoot',
         style: 'shadow-green-500'
     }

@@ -17,7 +17,7 @@ function App() {
               <Description />
             </div>
           </div>
-          <div className='flex flex-col w-full h-96 justify-center items-center bg-slate-950 '>
+          <div className='flex flex-col w-full h-96 justify-center items-center bg-slate-950 ' id='gitProjet'>
             <GitProjetos/>
           </div>
     </div>
