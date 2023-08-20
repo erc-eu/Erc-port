@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Erc-port/static/css/main.3c748117.css",
-    "main.js": "/Erc-port/static/js/main.c182d573.js",
+    "main.css": "/Erc-port/static/css/main.ce7e19bb.css",
+    "main.js": "/Erc-port/static/js/main.fec8424e.js",
     "static/js/787.733734f9.chunk.js": "/Erc-port/static/js/787.733734f9.chunk.js",
     "static/media/tailwind.png": "/Erc-port/static/media/tailwind.f0f26047a8933b822dae.png",
+    "static/media/gtorneios.png": "/Erc-port/static/media/gtorneios.95c5a8b88011d6550ae7.png",
     "static/media/htmlLogo.png": "/Erc-port/static/media/htmlLogo.1d7b133e22ffe4829da6.png",
     "static/media/github.png": "/Erc-port/static/media/github.1b136cd11de4e9b17d88.png",
     "static/media/javaScript.png": "/Erc-port/static/media/javaScript.ac9e504211b46cfb0118.png",
@@ -14,12 +15,12 @@
     "static/media/c.png": "/Erc-port/static/media/c.eea372e791e16bd211f2.png",
     "static/media/java.png": "/Erc-port/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/Erc-port/index.html",
-    "main.3c748117.css.map": "/Erc-port/static/css/main.3c748117.css.map",
-    "main.c182d573.js.map": "/Erc-port/static/js/main.c182d573.js.map",
+    "main.ce7e19bb.css.map": "/Erc-port/static/css/main.ce7e19bb.css.map",
+    "main.fec8424e.js.map": "/Erc-port/static/js/main.fec8424e.js.map",
     "787.733734f9.chunk.js.map": "/Erc-port/static/js/787.733734f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c748117.css",
-    "static/js/main.c182d573.js"
+    "static/css/main.ce7e19bb.css",
+    "static/js/main.fec8424e.js"
   ]
 }
