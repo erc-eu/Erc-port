@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Erc-port/static/css/main.ce7e19bb.css",
-    "main.js": "/Erc-port/static/js/main.fec8424e.js",
+    "main.css": "/Erc-port/static/css/main.5d438ada.css",
+    "main.js": "/Erc-port/static/js/main.fc89d3bc.js",
     "static/js/787.733734f9.chunk.js": "/Erc-port/static/js/787.733734f9.chunk.js",
     "static/media/tailwind.png": "/Erc-port/static/media/tailwind.f0f26047a8933b822dae.png",
     "static/media/gtorneios.png": "/Erc-port/static/media/gtorneios.95c5a8b88011d6550ae7.png",
@@ -15,12 +15,12 @@
     "static/media/c.png": "/Erc-port/static/media/c.eea372e791e16bd211f2.png",
     "static/media/java.png": "/Erc-port/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/Erc-port/index.html",
-    "main.ce7e19bb.css.map": "/Erc-port/static/css/main.ce7e19bb.css.map",
-    "main.fec8424e.js.map": "/Erc-port/static/js/main.fec8424e.js.map",
+    "main.5d438ada.css.map": "/Erc-port/static/css/main.5d438ada.css.map",
+    "main.fc89d3bc.js.map": "/Erc-port/static/js/main.fc89d3bc.js.map",
     "787.733734f9.chunk.js.map": "/Erc-port/static/js/787.733734f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce7e19bb.css",
-    "static/js/main.fec8424e.js"
+    "static/css/main.5d438ada.css",
+    "static/js/main.fc89d3bc.js"
   ]
 }
